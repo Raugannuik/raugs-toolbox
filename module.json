@@ -2,7 +2,7 @@
   "id": "raugs-toolbox",
   "title": "Raug's Toolbox",
   "version": "1.0.0",
-  "description": "Custom tools and macro tab designed strictly for D&D 5e (2024) on Foundry v13.",
+  "description": "Custom tools and macro tab designed strictly for D&D 5e (2024) on Foundry v13/14.",
   "authors": [
     {
       "name": "Raug"
@@ -10,7 +10,7 @@
   ],
   "compatibility": {
     "minimum": "13",
-    "verified": "13"
+    "verified": "14"
   },
   "relationships": {
     "systems": [
